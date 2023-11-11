@@ -1,0 +1,25 @@
+body {
+    background-color: #feffd6;
+    color: #010002;
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    color: #3d423c;
+}
+
+h3{
+    color: #e85a50;
+}
+
+a{
+    color: #5bb7b6;
+}
+
+img{
+    width: 50%;
+}
+
+.logo{
+    width: 40%;
+}
